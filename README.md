@@ -140,7 +140,7 @@ nofx/
 
 Before using this system, you need a Binance Futures account. **Use our referral link to save on trading fees:**
 
-**🎁 [Register Binance - Get Fee Discount](https://www.binance.com/join?ref=TINKLEVIP)**
+**🎁 [Register Binance - Get Fee Discount](https://accounts.maxweb.red/register?ref=TRADEAI)**
 
 ### Registration Steps:
 
